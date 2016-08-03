@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\bin\Debug\BigDigits.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\bin\Debug\BigDigits.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\bin\Debug\BigDigits.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\obj\Debug\BigDigits.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\obj\Debug\BigDigits.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BigDigits\BigDigits\obj\Debug\BigDigits.pdb
