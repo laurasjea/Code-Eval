@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Sorting\Sorting\obj\Debug\Sorting.pdb
