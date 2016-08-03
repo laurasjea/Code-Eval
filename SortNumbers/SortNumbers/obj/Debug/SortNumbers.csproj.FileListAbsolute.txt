@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SortNumbers\SortNumbers\obj\Debug\SortNumbers.pdb
