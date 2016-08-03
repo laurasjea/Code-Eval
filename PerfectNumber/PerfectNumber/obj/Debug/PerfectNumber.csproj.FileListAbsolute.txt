@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.pdb
