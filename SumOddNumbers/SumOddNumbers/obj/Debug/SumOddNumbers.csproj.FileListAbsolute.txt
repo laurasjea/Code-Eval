@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\bin\Debug\SumOddNumbers.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\bin\Debug\SumOddNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\bin\Debug\SumOddNumbers.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\obj\Debug\SumOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\obj\Debug\SumOddNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SumOddNumbers\SumOddNumbers\obj\Debug\SumOddNumbers.pdb
