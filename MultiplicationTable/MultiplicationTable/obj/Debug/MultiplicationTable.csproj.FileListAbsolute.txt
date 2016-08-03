@@ -1,0 +1,5 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
