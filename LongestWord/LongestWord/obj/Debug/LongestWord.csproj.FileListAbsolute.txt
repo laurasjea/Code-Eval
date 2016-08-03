@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\bin\Debug\LongestWord.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\bin\Debug\LongestWord.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\bin\Debug\LongestWord.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\obj\Debug\LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\obj\Debug\LongestWord.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LongestWord\LongestWord\obj\Debug\LongestWord.pdb

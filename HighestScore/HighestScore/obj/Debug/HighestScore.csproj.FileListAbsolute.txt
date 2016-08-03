@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\bin\Debug\HighestScore.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\bin\Debug\HighestScore.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\bin\Debug\HighestScore.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\obj\Debug\HighestScore.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\obj\Debug\HighestScore.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\HighestScore\HighestScore\obj\Debug\HighestScore.pdb

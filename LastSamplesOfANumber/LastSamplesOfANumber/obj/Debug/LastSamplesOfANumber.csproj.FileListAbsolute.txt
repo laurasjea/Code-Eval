@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\bin\Debug\LastSamplesOfANumber.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\bin\Debug\LastSamplesOfANumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\bin\Debug\LastSamplesOfANumber.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\obj\Debug\LastSamplesOfANumber.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\obj\Debug\LastSamplesOfANumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LastSamplesOfANumber\LastSamplesOfANumber\obj\Debug\LastSamplesOfANumber.pdb
