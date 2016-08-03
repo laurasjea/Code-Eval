@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\bin\Debug\MultiplesOfANumber.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\obj\Debug\MultiplesOfANumber.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\bin\Debug\MultiplesOfANumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\bin\Debug\MultiplesOfANumber.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\obj\Debug\MultiplesOfANumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MultiplesOfANumber\MultiplesOfANumber\obj\Debug\MultiplesOfANumber.pdb
