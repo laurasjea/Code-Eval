@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\bin\Debug\BlackCard.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\bin\Debug\BlackCard.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\bin\Debug\BlackCard.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\obj\Debug\BlackCard.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\obj\Debug\BlackCard.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\BlackCard\BlackCard\obj\Debug\BlackCard.pdb
