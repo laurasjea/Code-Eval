@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\bin\Debug\SImpleOrTrump.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\obj\Debug\SImpleOrTrump.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\bin\Debug\SImpleOrTrump.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\bin\Debug\SImpleOrTrump.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\obj\Debug\SImpleOrTrump.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\SImpleOrTrump\SImpleOrTrump\obj\Debug\SImpleOrTrump.pdb
