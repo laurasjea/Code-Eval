@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\bin\Debug\Cnady.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\obj\Debug\Cnady.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\bin\Debug\Cnady.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\bin\Debug\Cnady.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\obj\Debug\Cnady.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Cnady\Cnady\obj\Debug\Cnady.pdb
