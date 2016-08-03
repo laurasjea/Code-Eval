@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\bin\Debug\PrintRectangle.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\obj\Debug\PrintRectangle.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\bin\Debug\PrintRectangle.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\bin\Debug\PrintRectangle.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\obj\Debug\PrintRectangle.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintRectangle\PrintRectangle\obj\Debug\PrintRectangle.pdb
