@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\bin\Debug\ReverseStatement.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\bin\Debug\ReverseStatement.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\bin\Debug\ReverseStatement.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\obj\Debug\ReverseStatement.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\obj\Debug\ReverseStatement.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ReverseStatement\ReverseStatement\obj\Debug\ReverseStatement.pdb
