@@ -1,0 +1,5 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Candy2\Candy2\bin\Debug\Candy2.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Candy2\Candy2\bin\Debug\Candy2.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Candy2\Candy2\bin\Debug\Candy2.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Candy2\Candy2\obj\Debug\Candy2.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Candy2\Candy2\obj\Debug\Candy2.pdb
