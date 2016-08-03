@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.pdb
