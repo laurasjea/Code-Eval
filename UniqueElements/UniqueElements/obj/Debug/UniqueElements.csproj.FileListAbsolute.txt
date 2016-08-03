@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.pdb
