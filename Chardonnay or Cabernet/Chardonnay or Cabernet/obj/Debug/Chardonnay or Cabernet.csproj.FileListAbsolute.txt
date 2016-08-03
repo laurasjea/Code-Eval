@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\bin\Debug\Chardonnay or Cabernet.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\bin\Debug\Chardonnay or Cabernet.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\bin\Debug\Chardonnay or Cabernet.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\obj\Debug\Chardonnay or Cabernet.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\obj\Debug\Chardonnay or Cabernet.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Chardonnay or Cabernet\Chardonnay or Cabernet\obj\Debug\Chardonnay or Cabernet.pdb
