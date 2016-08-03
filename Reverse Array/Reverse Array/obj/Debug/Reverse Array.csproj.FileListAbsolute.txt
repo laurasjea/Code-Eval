@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\bin\Debug\Reverse Array.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\bin\Debug\Reverse Array.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\bin\Debug\Reverse Array.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\obj\Debug\Reverse Array.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\obj\Debug\Reverse Array.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Array\Reverse Array\obj\Debug\Reverse Array.pdb
