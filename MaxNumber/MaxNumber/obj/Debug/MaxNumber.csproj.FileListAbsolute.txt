@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.pdb
