@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\bin\Debug\Find Maximum and Minimum Temperatures.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\bin\Debug\Find Maximum and Minimum Temperatures.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\bin\Debug\Find Maximum and Minimum Temperatures.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\obj\Debug\Find Maximum and Minimum Temperatures.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\obj\Debug\Find Maximum and Minimum Temperatures.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Find Maximum and Minimum Temperatures\Find Maximum and Minimum Temperatures\obj\Debug\Find Maximum and Minimum Temperatures.pdb
