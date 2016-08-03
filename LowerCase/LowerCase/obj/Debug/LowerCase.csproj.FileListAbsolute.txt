@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\bin\Debug\LowerCase.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\obj\Debug\LowerCase.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\bin\Debug\LowerCase.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\bin\Debug\LowerCase.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\obj\Debug\LowerCase.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\LowerCase\LowerCase\obj\Debug\LowerCase.pdb
