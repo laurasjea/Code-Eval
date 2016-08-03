@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\bin\Debug\Reverse Words.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\bin\Debug\Reverse Words.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\bin\Debug\Reverse Words.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\obj\Debug\Reverse Words.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\obj\Debug\Reverse Words.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\Reverse Words\Reverse Words\obj\Debug\Reverse Words.pdb
