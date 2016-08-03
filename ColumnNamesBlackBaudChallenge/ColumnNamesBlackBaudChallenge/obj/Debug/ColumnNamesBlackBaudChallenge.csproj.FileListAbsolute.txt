@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\bin\Debug\ColumnNamesBlackBaudChallenge.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\bin\Debug\ColumnNamesBlackBaudChallenge.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\bin\Debug\ColumnNamesBlackBaudChallenge.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\obj\Debug\ColumnNamesBlackBaudChallenge.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\obj\Debug\ColumnNamesBlackBaudChallenge.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\ColumnNamesBlackBaudChallenge\ColumnNamesBlackBaudChallenge\obj\Debug\ColumnNamesBlackBaudChallenge.pdb
