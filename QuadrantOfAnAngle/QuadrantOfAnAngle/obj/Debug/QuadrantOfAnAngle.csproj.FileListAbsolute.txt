@@ -1,0 +1,6 @@
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\bin\Debug\QuadrantOfAnAngle.exe.config
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\bin\Debug\QuadrantOfAnAngle.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\bin\Debug\QuadrantOfAnAngle.pdb
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\obj\Debug\QuadrantOfAnAngle.csprojResolveAssemblyReference.cache
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\obj\Debug\QuadrantOfAnAngle.exe
+C:\Users\laszdon1\Desktop\Projects\Test Projects\QuadrantOfAnAngle\QuadrantOfAnAngle\obj\Debug\QuadrantOfAnAngle.pdb
